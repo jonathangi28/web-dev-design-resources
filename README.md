@@ -21,6 +21,7 @@ Need something to help get you started? Inspiration? Reference? Assets? Check ou
 - [Font Squirrel](https://www.fontsquirrel.com/)
 
 ### CSS
+- [110+ CSS Hover Effects](https://freefrontend.com/css-hover-effects/)
 - [Freefrontend](https://freefrontend.com/)
 - [Animista](https://animista.net/)
 - [Animate CSS](https://animate.style/)
