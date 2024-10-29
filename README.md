@@ -2,6 +2,27 @@
 
 Need something to help get you started? Inspiration? Reference? Assets? Check out these resources below. Send a Pull Request if you want to add more.
 
+### Search Engines
+
+- [Google Search Console](https://search.google.com/search-console/about)
+-	[Bing](https://www.bing.com/webmasters/help/url-submission-62f2860b)
+-	[Bing Webmaster Tools](https://www.bing.com/webmaster/)
+
+### Optimize Website
+ 
+- [Robots.txt Generator](https://www.seoptimer.com/robots-txt-generator)
+- [CloudFlare CDN](www.cloudflare.com)
+- [PageSpeedInsights](https://pagespeed.web.dev/)
+-	[Test your structured data](https://developers.google.com/search/docs/appearance/structured-data)
+-	[Structured data linter](http://linter.structured-data.org/)
+-	[Ensure CSP is effective against XSS attacks](https://developer.chrome.com/docs/lighthouse/best-practices/csp-xss/?utm_source=lighthouse&utm_medium=lr)
+-	[Color contrast analyzer tool](https://dequeuniversity.com/rules/axe/4.10/color-contrast)
+-	[Optimize Images using Squoosh](https://squoosh.app/)
+
+### MONITOR WEBSITE:
+	
+- [Visual Ping](https://visualping.io)
+
 ### Onboarding Process and UI/UX Designs
 
 - [Laws of UX](https://lawsofux.com/) 
