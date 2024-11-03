@@ -118,7 +118,8 @@ Need something to help get you started? Inspiration? Reference? Assets? Check ou
 - [Cleanmock](https://cleanmock.com)
 
 ### GitHub
-- [Basics](https://gist.github.com/jonathangi28/ec54ca47f0c9641677fac6fedc49b7d9) 
+- [Basics](https://gist.github.com/jonathangi28/ec54ca47f0c9641677fac6fedc49b7d9)
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#summary)
 
 ### Node
 [Install multiple versions of Node at once](https://gist.github.com/jonathangi28/6b381a067f90c2b54b4c6053bb6550a0)
