@@ -2,6 +2,11 @@
 
 Need something to help get you started? Inspiration? Reference? Assets? Check out these resources below. Send a Pull Request if you want to add more.
 
+### Tools for Domain, DNS, E-mail Blacklists
+- [Domain Health Report Checker](https://mxtoolbox.com/emailhealth/jgmobileapps.com)
+- [Is it blacklisted?](https://mxtoolbox.com/blacklists.aspx)
+- [Check the Spammyness of your e-mails](https://www.mail-tester.com)
+
 ### Search Engines
 
 - [Google Search Console](https://search.google.com/search-console/about)
