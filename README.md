@@ -2,6 +2,12 @@
 
 Need something to help get you started? Inspiration? Reference? Assets? Check out these resources below. Send a Pull Request if you want to add more.
 
+### Third party e-mail for your website domain
+- When enabling CloudFlare for your domain, it's essential to set up a third-party email service to ensure security and prevent potential hacker attacks. Cloud Flare exposes your web hosting server IP address to the public which can be used against you by attackers. That is why I’m using a third party email provider. I personally use Proton Mail for my website, and I highly recommend it to everyone.  I have multiple email addresses and use the “catch-all” feature Proton offers no matter what people email me at with my @domain proton captures all emails. Makes life simpler.
+- [Try Proton - Encryption email for personal and business uses](https://pr.tn/ref/X8QHC3Q9JH10) 
+- This is an affiliate link - we both get discounts, you protect yourself, its a win-win.
+
+
 ### Tools for Domain, DNS, E-mail Blacklists
 - [Domain Health Report Checker](https://mxtoolbox.com/emailhealth/jgmobileapps.com)
 - [Is it blacklisted?](https://mxtoolbox.com/blacklists.aspx)
