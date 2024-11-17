@@ -9,7 +9,7 @@ Need something to help get you started? Inspiration? Reference? Assets? Check ou
 
 
 ### Tools for Domain, DNS, E-mail Blacklists
-- [Domain Health Report Checker](https://mxtoolbox.com/emailhealth/jgmobileapps.com)
+- [Domain Health Report Checker](https://mxtoolbox.com/emailhealth)
 - [Is it blacklisted?](https://mxtoolbox.com/blacklists.aspx)
 - [Check the Spammyness of your e-mails](https://www.mail-tester.com)
 
