@@ -34,7 +34,7 @@ Need something to help get you started? Inspiration? Reference? Assets? Check ou
 
 ### MONITOR WEBSITE:
 	
-- [Visual Ping](https://visualping.io)
+- [Siteuptime](https://www.siteuptime.com)
 
 ### Onboarding Process and UI/UX Designs
 
